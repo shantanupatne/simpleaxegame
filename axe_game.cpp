@@ -36,7 +36,7 @@ int main() {
     int direction(10);
 
     // Show window
-    InitWindow(width, height, "My Window");
+    InitWindow(width, height, "Axe Game");
     SetTargetFPS(60);
     while (!WindowShouldClose()) {
         BeginDrawing();
